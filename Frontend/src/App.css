@@ -328,29 +328,6 @@ input, select {
   max-width: 500px;
 }
 
-/* .top-employees, .bottom-employees {
-  padding: 20px;
-  margin: 30px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
-  background-color: white;
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  max-width: 500px;
-}
-
-.top-employees h3, .bottom-employees h3 {
-  color: #333;
-  margin-bottom: 15px;
-}
-
-.top-bottom-tables{
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-} */
-
 .top-bottom-tables {
   display: flex;
   flex-wrap: wrap; /* Allows items to wrap on smaller screens */
